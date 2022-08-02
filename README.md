@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 
@@ -24,3 +25,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# DisneyAPI
+>>>>>>> 8d2ae3e8f2c347c58ef730c68e0241960ee6c2e7
